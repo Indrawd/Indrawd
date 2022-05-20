@@ -45,7 +45,7 @@ linters:
     # - gocognit
     - nolintlint
     - asciicheck
-
+nud
 issues:
   exclude-rules:
     - path: _test\.go
