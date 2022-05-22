@@ -3,6 +3,7 @@ run:
 wsu
 linters:
   enable:
+  nju
     - bodyclose
     - deadcode
     - depguard
